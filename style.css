@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body {
+   background-color: black; 
+}
+
+h2 {
+    text-align: center;
+    color: lime;
+    font-size: 30px;
+    padding: 30px;
+    font-weight: bold;
+}
+
+header {
+    background-color: lime;
+    padding: px;
+}
