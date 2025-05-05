@@ -16,7 +16,27 @@ h2 {
     font-weight: bold;
 }
 
-header {
+li {
+    margin: 15px auto;
+    text-align: center;
+    padding: 10px;
     background-color: lime;
-    padding: px;
+    width: 30%;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+
+header{
+    background-color: lime;
+}
+
+.copyright {
+    color: lime;
+    margin: 90px 0 0;
+    text-align:center;
+}
+
+footer{
+
 }
