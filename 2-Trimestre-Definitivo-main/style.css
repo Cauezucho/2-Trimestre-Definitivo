@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body {
+   background-color: black; 
+}
+
+h2 {
+    text-align: center;
+    color: lime;
+    font-size: 30px;
+    padding: 30px;
+    font-weight: bold;
+}
+
+li {
+    margin: 15px auto;
+    text-align: center;
+    padding: 10px;
+    background-color: lime;
+    width: 30%;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+
+header{
+    background-color: lime;
+}
+
+.copyright {
+    color: lime;
+    margin: 90px 0 0;
+    text-align:center;
+}
